@@ -1,6 +1,5 @@
 import request from 'request-promise-native';
 import { formatError } from 'graphql';
-
 /**
  * Creates a request following the given parameters
  * @param {string} url
